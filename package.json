@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://{mohantyrohan3}.github.io/{portfolio-rohan-mlsa}",
+  "homepage": "http://mohantyrohan3.github.io/portfolio-rohan-mlsa",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://{mohantyrohan3.github.io/{portfolio-rohan-mlsa}'",
+    "build-gh": "parcel build --public-url 'https://mohantyrohan3.github.io/portfolio-rohan-mlsa'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
