@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Seminar Hall Booking System 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A Modern Seminar Hall Booking System for colleges which can be managed by admin and departments can book halls",
+    url: "https://github.com/mohantyrohan3/Seminar_Hall_Booking_System",
   },
   {
-    title: "Web Development for Beginners",
+    title: "DOCSHARE",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "DocShare is a web application that allows users to upload, save, and share PDF documents easily. This repository contains the source code and necessary files for running the DocShare web application.",
+    url: "https://github.com/mohantyrohan3/DocShare",
   },
   {
-    title: "My Resume Site",
+    title: "AgroInONE",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "AgroInone - Website - One stop platform for farmers to use multiple required services",
+    url: "https://github.com/mohantyrohan3/AgroInOne",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "D3-Fest Web App",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "The solution to the problem statement D3H06 provided by D3 tech fest Hackathon conducted by IIIt-Bh",
+    url: "https://github.com/mohantyrohan3/D3_Fest_Web_app",
   },
 ];
 
